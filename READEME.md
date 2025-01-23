@@ -1,13 +1,13 @@
 <div align="center">
 <img src="./docs/maic_logo.jpg" width="300em" ></img> 
-</div>
+
 
 **A Multi-agent Open Learning Platform for LLM Era's Online Education**
 
   <strong>[中文](./maic_readme_zh.md) |
   English</strong>
 
-Join our <a href="docs/wechat.md" target="_blank"> 💬 WeChat</a> | View  MAIC  <a href="https://arxiv.org/abs/2409.03512" target="_blank"> 📖 Technical Report</a> 
+Join our <a href="docs/wechat.md" target="_blank"> 💬 WeChat</a> | View  MAIC  <a href="https://arxiv.org/abs/2409.03512" target="_blank"> 📖 Technical Report</a>  </div>
 
 MAIC (Massive AI-empowered Courses)  aims to create a highly immersive and configurable AI-powered learning classroom, built on large language models and incorporating multiple intelligent agents such as teachers, teaching assistants, and peers. This system is designed to assist students throughout the entire learning process, support teachers in intelligent lesson preparation, and enable high-level personalized learning for students, ultimately realizing an "autonomous classroom" experience where each student has their own tailored learning journey.
 
@@ -46,30 +46,7 @@ We will not be liable for any problems arising from the use of MAIC platform, in
 
 ## 🌟 Star History <!-- omit in toc -->
 
-
-<table align="center">
-    <p align="center">
-      <img src="assets/star_history.svg"/>
-    </p>
-</table>
-<!-- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://api.star-history.com/svg?repos=THU-MAIC/MAIC-Core&type=Date&theme=dark
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://api.star-history.com/svg?repos=THU-MAIC/MAIC-Core&type=Date
-    "
-  />
-  <img
-    alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=THU-MAIC/MAIC-Core&type=Date"
-  />
-</picture> -->
+<p align="center">   <img src="https://api.star-history.com/svg?repos=THU-MAIC/MAIC-Core&type=Date" alt="Star History Chart"> </p>
 
 ## Key Techniques and Other Related Projects <!-- omit in toc -->
 

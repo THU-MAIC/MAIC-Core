@@ -1,12 +1,11 @@
 <div align="center">
 <img src="./docs/maic_logo.jpg" width="300em" ></img> 
-</div>
 
-<strong>面向大模型时代在线教育的多智能体开放学习平台</strong>
+<strong>面向大模型时代在线教育的多智能体开放学习平台</strong> 
 
 <strong>中文版 | [英文版](./README.md)</strong>
 
-加入我们的<a href="docs/wechat.md" target="_blank"> 💬 微信群</a> | 查看 MAIC 的 <a href="https://arxiv.org/abs/2409.03512" target="_blank"> 📖 技术报告</a>
+加入我们的<a href="docs/wechat.md" target="_blank"> 💬 微信群</a> | 查看 MAIC 的 <a href="https://arxiv.org/abs/2409.03512" target="_blank"> 📖 技术报告</a> </div>
 
 MAIC（Massive AI-empowered Courses）旨在打造一个高度沉浸式且可配置的AI驱动学习课堂，基于大语言模型，并融合多种智能体如教师、助教和同伴。该系统旨在全程辅助学生的学习过程，支持教师智能备课，并为学生提供高水平的个性化学习体验，最终实现“自主课堂”的体验，让每个学生拥有专属的学习旅程。
 
@@ -44,31 +43,7 @@ MAIC 通过学习大量的多模态语料生成内容，但无法理解、表达
 
 ## 🌟 Star 历史 <!-- omit in toc -->
 
-
-<table align="center">
-    <p align="center">
-      <img src="assets/star_history.svg"/>
-    </p>
-</table>
-
-<!-- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://api.star-history.com/svg?repos=THU-MAIC/MAIC-Core&type=Date&theme=dark
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://api.star-history.com/svg?repos=THU-MAIC/MAIC-Core&type=Date
-    "
-  />
-  <img
-    alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=THU-MAIC/MAIC-Core&type=Date"
-  />
-</picture> -->
+<p align="center">   <img src="https://api.star-history.com/svg?repos=THU-MAIC/MAIC-Core&type=Date" alt="Star History Chart"> </p>
 
 ## 关键技术及其他相关项目 <!-- omit in toc -->
 
