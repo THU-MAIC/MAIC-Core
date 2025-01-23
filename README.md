@@ -1,5 +1,6 @@
 <div align="center">
 <img src="./docs/maic_logo.jpg" width="300em" ></img> 
+</div>
 
 **A Multi-agent Open Learning Platform for LLM Era's Online Education**
 

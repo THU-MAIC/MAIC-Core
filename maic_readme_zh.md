@@ -1,5 +1,6 @@
 <div align="center">
 <img src="./docs/maic_logo.jpg" width="300em" ></img> 
+</div>
 **面向大模型时代在线教育的多智能体开放学习平台**
 
 <strong>中文版 | [英文版](./README.md)</strong>
