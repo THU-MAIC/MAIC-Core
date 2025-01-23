@@ -1,7 +1,8 @@
 <div align="center">
 <img src="./docs/maic_logo.jpg" width="300em" ></img> 
 </div>
-**面向大模型时代在线教育的多智能体开放学习平台**
+
+<strong>面向大模型时代在线教育的多智能体开放学习平台</strong>
 
 <strong>中文版 | [英文版](./README.md)</strong>
 
@@ -91,10 +92,6 @@ MAIC 通过学习大量的多模态语料生成内容，但无法理解、表达
 我们的教师端论文：
 
 ```
-bib
-
-
-复制编辑
 @article{zhang2024awaking,
   title={Awaking the Slides: A Tuning-free and Knowledge-regulated AI Tutoring System via Language Model Coordination},
   author={Zhang-Li, Daniel and Zhang, Zheyuan and Yu, Jifan and Yin, Joy Lim Jia and Tu, Shangqing and Gong, Linlu and Wang, Haohua and Liu, Zhiyuan and Liu, Huiqin and Hou, Lei and others},
@@ -106,17 +103,12 @@ bib
 我们的学生端论文：
 
 ```
-bib
-
-
-复制编辑
 @article{zhang2024simulating,
   title={Simulating classroom education with llm-empowered agents},
   author={Zhang, Zheyuan and Zhang-Li, Daniel and Yu, Jifan and Gong, Linlu and Zhou, Jinchang and Liu, Zhiyuan and Hou, Lei and Li, Juanzi},
   journal={arXiv preprint arXiv:2406.19226},
   year={2024}
 }
-复制编辑
 ```
 
 
