@@ -46,7 +46,7 @@ We will not be liable for any problems arising from the use of MAIC platform, in
 
 ## 🌟 Star History <!-- omit in toc -->
 
-<p align="center">   <img src="https://api.star-history.com/svg?repos=THU-MAIC/MAIC-Core&type=Date" alt="Star History Chart"> </p>
+<p align="center">   <img src="https://api.star-history.com/svg?secret=Z2l0aHViX3BhdF8xMUFHNUdENlEwT2hhUEJVeUtGa2lJX05SYW92bmNCWDk4SFBtaDVSQkxwb0hORnEyQXBVaHlCWHNCYlpzUXV4TFVCNEJOWlpOVkY3b0hVQ0hz&repos=THU-MAIC/MAIC-Core&type=Date" alt="Star History Chart"> </p>
 
 ## Key Techniques and Other Related Projects <!-- omit in toc -->
 
