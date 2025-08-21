@@ -45,3 +45,6 @@ uvloop==0.21.0
 watchfiles==1.0.0
 websockets==14.1
 zhipuai==2.1.5.20241203
+PyMuPDF
+python-pptx
+retry

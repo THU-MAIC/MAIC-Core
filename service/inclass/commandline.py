@@ -43,8 +43,8 @@ def main():
             )
             if not continue_generate:
                 break
-        if executor_name == 'ReadScript':
-            continue  # set default to continue mode
+        # if executor_name == 'ReadScript':
+        #     continue  # set default to continue mode
         
         input_str = input('User Input(Type Empty Message For Continue Mode): ')
         if input_str.strip() and input_str != 'quit':
